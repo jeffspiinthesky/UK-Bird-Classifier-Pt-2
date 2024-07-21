@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20240715</folder>
+	<filename>0000273.jpg</filename>
+	<path>train/0000273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House_Sparrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1772</xmin>
+			<ymin>538</ymin>
+			<xmax>1952</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>
